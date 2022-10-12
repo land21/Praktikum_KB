@@ -1,0 +1,1030 @@
+,Umur,Kelamin,BisnisPerjalanan,Pendidikan,Departemen,RateHarian,JarakDariRumah,KepuasanKerja,TotalBekerjaSetahun,Kelamin_Female,Kelamin_Male
+714,50,Male,Travel_Rarely,2,Research & Development,1126.0,1,3,32,0,1
+135,36,Male,Travel_Rarely,2,Research & Development,216.0,6,3,7,0,1
+1271,21,Male,Travel_Rarely,1,Sales,337.0,7,3,1,0,1
+477,50,Male,Travel_Frequently,3,Human Resources,1246.0,3,3,32,0,1
+806,52,Male,Travel_Rarely,4,Research & Development,994.0,7,3,18,0,1
+435,33,Male,Travel_Rarely,1,Research & Development,1277.0,15,3,15,0,1
+1303,47,Female,Travel_Rarely,3,Research & Development,1001.0,4,2,28,1,0
+630,22,Male,Travel_Rarely,2,Research & Development,1230.0,1,2,4,0,1
+598,28,Male,Travel_Rarely,4,Research & Development,890.0,2,3,5,0,1
+1198,33,Female,Non-Travel,3,Sales,530.0,16,3,7,1,0
+158,40,Male,Travel_Rarely,4,Sales,630.0,4,2,15,0,1
+974,27,Male,Travel_Frequently,1,Sales,793.0,2,1,8,0,1
+1427,40,Male,Travel_Rarely,4,Research & Development,543.0,1,3,8,0,1
+787,55,Male,Travel_Frequently,1,Research & Development,1091.0,2,3,23,0,1
+798,33,Male,Travel_Rarely,3,Research & Development,1017.0,25,2,5,0,1
+695,37,Male,Travel_Rarely,4,Sales,625.0,1,2,17,0,1
+1270,34,Female,Travel_Rarely,2,Sales,511.0,3,1,6,1,0
+916,46,Female,Travel_Rarely,2,Sales,168.0,4,2,26,1,0
+1119,38,Male,Travel_Rarely,3,Sales,1245.0,14,3,10,0,1
+941,30,Female,Travel_Rarely,3,Research & Development,1138.0,6,2,10,1,0
+613,34,Male,Travel_Rarely,2,Human Resources,829.0,3,3,4,0,1
+1179,34,Female,Travel_Rarely,3,Research & Development,1130.0,3,3,11,1,0
+1447,36,Male,Non-Travel,4,Sales,301.0,15,1,15,0,1
+1450,35,Female,Travel_Rarely,4,Human Resources,1146.0,26,3,9,1,0
+438,35,Male,Travel_Rarely,3,Research & Development,1276.0,16,3,10,0,1
+1242,40,Male,Travel_Rarely,4,Sales,611.0,7,3,21,0,1
+96,24,Female,Travel_Rarely,2,Sales,1353.0,3,3,4,1,0
+701,53,Male,Travel_Rarely,2,Sales,1376.0,2,3,22,0,1
+1190,32,Male,Travel_Rarely,3,Research & Development,977.0,2,3,10,0,1
+1068,28,Male,Travel_Frequently,2,Research & Development,289.0,2,2,8,0,1
+1065,55,Male,Travel_Rarely,4,Research & Development,1229.0,4,3,4,0,1
+410,30,Female,Travel_Rarely,3,Research & Development,317.0,2,1,11,1,0
+614,26,Female,Travel_Frequently,2,Research & Development,887.0,5,2,8,1,0
+585,23,Male,Travel_Rarely,3,Research & Development,1243.0,6,4,1,0,1
+156,51,Male,Travel_Rarely,4,Research & Development,1169.0,7,2,10,0,1
+597,42,Female,Travel_Rarely,2,Research & Development,932.0,1,2,8,1,0
+620,35,Female,Travel_Rarely,1,Research & Development,1343.0,27,2,6,1,0
+447,35,Male,Travel_Rarely,3,Sales,619.0,1,3,15,0,1
+513,20,Male,Travel_Rarely,1,Research & Development,1362.0,10,3,1,0,1
+984,28,Male,Travel_Rarely,3,Sales,736.0,26,2,5,0,1
+859,29,Female,Travel_Rarely,1,Research & Development,942.0,15,1,6,1,0
+390,43,Male,Travel_Rarely,3,Research & Development,982.0,12,2,25,0,1
+845,40,Female,Travel_Frequently,2,Research & Development,902.0,26,2,16,1,0
+852,29,Female,Travel_Rarely,1,Research & Development,1401.0,6,3,10,1,0
+1327,46,Female,Travel_Rarely,3,Sales,1319.0,3,4,25,1,0
+1279,44,Male,Travel_Frequently,2,Research & Development,429.0,1,3,6,0,1
+1024,47,Female,Travel_Rarely,4,Research & Development,359.0,2,3,26,1,0
+558,32,Male,Travel_Frequently,4,Research & Development,430.0,24,3,10,0,1
+490,38,Female,Travel_Rarely,1,Research & Development,362.0,1,3,8,1,0
+962,51,Male,Travel_Rarely,3,Human Resources,770.0,5,3,33,0,1
+308,58,Male,Non-Travel,4,Research & Development,390.0,1,1,12,0,1
+461,35,Female,Travel_Rarely,3,Sales,195.0,1,3,5,1,0
+1037,45,Male,Travel_Rarely,3,Research & Development,1448.0,29,3,10,0,1
+552,56,Male,Travel_Rarely,3,Research & Development,832.0,9,3,30,0,1
+767,37,Female,Travel_Rarely,3,Research & Development,124.0,3,3,8,1,0
+1211,37,Male,Travel_Frequently,4,Sales,1278.0,1,1,6,0,1
+705,39,Male,Travel_Rarely,5,Sales,903.0,2,4,9,0,1
+846,35,Male,Travel_Rarely,3,Research & Development,819.0,2,2,15,0,1
+771,54,Female,Travel_Rarely,4,Sales,1082.0,2,2,13,1,0
+756,32,Female,Non-Travel,4,Research & Development,1109.0,29,3,10,1,0
+352,48,Female,Travel_Rarely,1,Sales,530.0,29,3,15,1,0
+715,33,Female,Travel_Frequently,4,Research & Development,827.0,1,4,6,1,0
+124,31,Male,Travel_Rarely,4,Sales,249.0,6,1,12,0,1
+178,46,Female,Travel_Rarely,2,Sales,526.0,1,3,24,1,0
+287,38,Male,Travel_Rarely,4,Research & Development,688.0,23,3,10,0,1
+1416,38,Male,Travel_Rarely,4,Sales,1321.0,1,3,16,0,1
+1216,43,Male,Travel_Rarely,3,Sales,1179.0,2,3,10,0,1
+294,37,Male,Travel_Frequently,3,Research & Development,889.0,9,3,4,0,1
+327,39,Female,Travel_Rarely,2,Sales,1162.0,3,3,12,1,0
+629,28,Male,Travel_Rarely,2,Human Resources,1169.0,8,2,6,0,1
+1456,35,Male,Travel_Frequently,4,Research & Development,1199.0,18,3,10,0,1
+88,30,Male,Travel_Rarely,3,Research & Development,288.0,2,2,11,0,1
+937,39,Female,Travel_Rarely,4,Research & Development,412.0,13,2,21,1,0
+1330,43,Female,Travel_Rarely,3,Research & Development,823.0,6,2,21,1,0
+554,27,Female,Travel_Rarely,3,Research & Development,975.0,7,2,9,1,0
+672,42,Female,Travel_Rarely,2,Sales,462.0,14,2,10,1,0
+1360,31,Female,Travel_Rarely,3,Research & Development,471.0,4,4,4,1,0
+669,39,Male,Travel_Rarely,3,Research & Development,1122.0,6,3,8,0,1
+905,29,Female,Travel_Rarely,3,Research & Development,694.0,1,2,9,1,0
+290,49,Female,Travel_Frequently,4,Research & Development,636.0,10,3,22,1,0
+1391,38,Male,Travel_Rarely,3,Sales,1404.0,1,2,20,0,1
+1424,35,Male,Travel_Rarely,4,Research & Development,1395.0,9,3,10,0,1
+348,42,Female,Travel_Rarely,5,Research & Development,810.0,23,3,16,1,0
+1085,31,Female,Travel_Frequently,3,Research & Development,561.0,3,3,7,1,0
+1385,34,Male,Travel_Rarely,4,Sales,1239.0,13,3,9,0,1
+664,36,Male,Travel_Rarely,1,Research & Development,1425.0,14,3,17,0,1
+576,27,Male,Travel_Frequently,1,Sales,829.0,8,3,5,0,1
+458,40,Male,Non-Travel,3,Sales,1094.0,28,1,20,0,1
+1084,34,Male,Travel_Rarely,3,Sales,971.0,1,2,10,0,1
+333,43,Female,Travel_Rarely,3,Research & Development,1001.0,7,3,10,1,0
+1030,31,Male,Travel_Rarely,2,Sales,326.0,8,3,13,0,1
+1420,41,Male,Travel_Rarely,3,Research & Development,642.0,1,3,12,0,1
+1389,31,Male,Travel_Frequently,3,Research & Development,1125.0,1,1,10,0,1
+1362,45,Male,Travel_Frequently,4,Research & Development,1297.0,1,3,12,0,1
+328,33,Male,Travel_Frequently,3,Sales,508.0,10,2,9,0,1
+318,27,Female,Travel_Rarely,3,Research & Development,1220.0,5,3,4,1,0
+1465,36,Male,Travel_Frequently,2,Research & Development,884.0,23,4,17,0,1
+1210,33,Male,Travel_Rarely,3,Research & Development,267.0,21,4,14,0,1
+12,31,Male,Travel_Rarely,1,Research & Development,670.0,26,3,5,0,1
+171,19,Female,Travel_Frequently,1,Sales,602.0,1,1,1,1,0
+260,32,Male,Travel_Frequently,3,Research & Development,1311.0,7,4,5,0,1
+817,36,Male,Non-Travel,4,Research & Development,217.0,18,3,18,0,1
+1280,37,Male,Travel_Rarely,2,Human Resources,1239.0,8,3,19,0,1
+764,28,Male,Travel_Rarely,1,Sales,1144.0,10,3,1,0,1
+138,25,Male,Travel_Rarely,3,Sales,959.0,28,2,6,0,1
+589,29,Female,Travel_Rarely,2,Research & Development,805.0,1,2,1,1,0
+808,29,Female,Travel_Rarely,4,Research & Development,1107.0,28,3,11,1,0
+746,41,Female,Non-Travel,1,Research & Development,247.0,7,1,21,1,0
+139,30,Male,Travel_Rarely,3,Human Resources,1240.0,9,3,12,0,1
+1284,39,Male,Travel_Rarely,1,Research & Development,1253.0,10,3,9,0,1
+1273,22,Female,Travel_Rarely,1,Research & Development,1294.0,8,3,1,1,0
+224,31,Male,Non-Travel,4,Research & Development,979.0,1,1,6,0,1
+755,45,Female,Travel_Rarely,2,Sales,1234.0,11,3,26,1,0
+409,42,Female,Travel_Frequently,2,Research & Development,532.0,29,3,19,1,0
+325,31,Female,Travel_Frequently,2,Research & Development,798.0,7,2,10,1,0
+299,51,Male,Travel_Rarely,3,Research & Development,1302.0,2,1,13,0,1
+847,34,Male,Travel_Frequently,3,Research & Development,669.0,1,2,14,0,1
+710,33,Male,Non-Travel,3,Sales,722.0,17,3,10,0,1
+1392,35,Female,Travel_Rarely,4,Sales,1224.0,7,3,10,1,0
+1410,40,Female,Travel_Rarely,2,Sales,444.0,2,3,15,1,0
+908,33,Male,Travel_Rarely,5,Sales,536.0,10,4,10,0,1
+834,34,Female,Travel_Rarely,1,Sales,1400.0,9,3,6,1,0
+503,34,Male,Travel_Rarely,5,Research & Development,1397.0,1,3,10,0,1
+730,30,Female,Travel_Rarely,2,Research & Development,153.0,8,4,9,1,0
+3,33,Female,Travel_Frequently,4,Research & Development,1392.0,3,3,8,1,0
+718,45,Male,Non-Travel,2,Research & Development,248.0,23,3,9,0,1
+467,37,Male,Non-Travel,4,Sales,142.0,9,3,9,0,1
+321,31,Male,Travel_Rarely,3,Sales,691.0,7,3,13,0,1
+5,36,Male,Travel_Frequently,2,Research & Development,1005.0,2,3,8,0,1
+933,28,Male,Travel_Rarely,3,Research & Development,640.0,1,3,5,0,1
+998,26,Male,Travel_Rarely,1,Research & Development,683.0,2,2,5,0,1
+720,30,Female,Travel_Rarely,3,Research & Development,138.0,22,3,7,1,0
+39,33,Female,Travel_Frequently,3,Sales,1141.0,1,4,10,1,0
+542,38,Female,Travel_Rarely,3,Research & Development,168.0,1,3,10,1,0
+242,41,Male,Travel_Rarely,2,Research & Development,1411.0,19,3,17,0,1
+136,51,Male,Travel_Frequently,4,Research & Development,1150.0,8,1,18,0,1
+605,38,Male,Travel_Frequently,3,Research & Development,471.0,12,2,13,0,1
+1328,27,Female,Travel_Rarely,1,Sales,728.0,23,2,9,1,0
+649,53,Female,Travel_Rarely,4,Research & Development,102.0,23,3,33,1,0
+1049,30,Male,Travel_Rarely,1,Sales,1358.0,16,3,4,0,1
+1338,30,Male,Travel_Rarely,3,Sales,945.0,9,3,1,0,1
+581,30,Male,Travel_Rarely,3,Research & Development,921.0,1,1,7,0,1
+1009,58,Female,Travel_Rarely,3,Research & Development,1055.0,1,3,32,1,0
+757,34,Male,Travel_Rarely,4,Sales,216.0,1,4,16,0,1
+1361,26,Male,Travel_Frequently,3,Research & Development,1096.0,6,4,8,0,1
+376,51,Female,Travel_Rarely,2,Sales,1178.0,14,3,18,1,0
+314,39,Male,Travel_Rarely,1,Research & Development,117.0,10,3,21,0,1
+442,36,Male,Non-Travel,4,Sales,635.0,10,3,10,0,1
+319,32,Female,Travel_Rarely,2,Sales,588.0,8,2,13,1,0
+772,56,Female,Travel_Frequently,3,Research & Development,1240.0,9,3,18,1,0
+1053,57,Male,Travel_Rarely,2,Research & Development,405.0,1,4,13,0,1
+424,57,Male,Travel_Rarely,3,Sales,210.0,29,2,32,0,1
+553,40,Female,Travel_Rarely,1,Research & Development,804.0,2,2,5,1,0
+1438,23,Male,Travel_Frequently,3,Sales,638.0,9,3,1,0,1
+1203,53,Male,Travel_Rarely,4,Research & Development,1395.0,24,4,11,0,1
+1193,38,Female,Travel_Frequently,3,Research & Development,148.0,2,2,4,1,0
+599,36,Male,Travel_Rarely,3,Human Resources,1041.0,13,3,8,0,1
+227,29,Female,Travel_Frequently,1,Sales,1413.0,1,3,11,1,0
+1430,38,Female,Travel_Rarely,3,Research & Development,201.0,10,1,20,1,0
+1414,47,Male,Travel_Rarely,3,Research & Development,1180.0,25,3,25,0,1
+939,32,Male,Travel_Rarely,2,Research & Development,1089.0,7,3,10,0,1
+1150,35,Male,Travel_Rarely,5,Research & Development,819.0,18,4,16,0,1
+66,36,Male,Travel_Frequently,3,Research & Development,1195.0,11,2,6,0,1
+1006,49,Male,Travel_Frequently,2,Research & Development,1475.0,28,2,20,0,1
+579,34,Female,Travel_Rarely,4,Research & Development,121.0,2,2,6,1,0
+949,39,Male,Travel_Rarely,2,Research & Development,524.0,18,3,9,0,1
+211,30,Male,Non-Travel,1,Research & Development,829.0,1,2,12,0,1
+987,51,Male,Travel_Frequently,3,Sales,541.0,2,3,14,0,1
+924,35,Male,Travel_Rarely,1,Research & Development,735.0,6,3,4,0,1
+536,60,Male,Travel_Rarely,4,Sales,1179.0,16,3,10,0,1
+1452,50,Male,Travel_Frequently,4,Sales,878.0,1,3,12,0,1
+1092,45,Male,Travel_Rarely,3,Research & Development,950.0,28,3,8,0,1
+85,56,Male,Travel_Rarely,3,Research & Development,1400.0,7,1,37,0,1
+1322,46,Male,Travel_Rarely,2,Research & Development,706.0,2,3,12,0,1
+1263,42,Male,Travel_Rarely,3,Research & Development,855.0,12,3,7,0,1
+1209,60,Male,Travel_Rarely,4,Research & Development,370.0,1,1,19,0,1
+634,25,Male,Travel_Rarely,1,Sales,141.0,3,3,5,0,1
+1323,28,Male,Non-Travel,2,Human Resources,280.0,1,3,3,0,1
+1111,53,Female,Travel_Rarely,5,Research & Development,607.0,2,2,34,1,0
+1372,39,Male,Travel_Rarely,2,Research & Development,867.0,9,3,10,0,1
+1331,48,Male,Travel_Rarely,3,Research & Development,1224.0,10,2,29,0,1
+273,37,Male,Travel_Rarely,4,Sales,228.0,6,3,7,0,1
+988,41,Female,Travel_Frequently,3,Research & Development,1200.0,22,3,12,1,0
+362,21,Male,Non-Travel,2,Sales,895.0,9,3,3,0,1
+622,32,Male,Travel_Rarely,4,Sales,117.0,13,3,8,0,1
+2,37,Male,Travel_Rarely,2,Research & Development,1373.0,2,2,7,0,1
+6,59,Female,Travel_Rarely,3,Research & Development,801.7228260869565,3,4,12,1,0
+311,45,Male,Travel_Frequently,3,Research & Development,1249.0,7,3,24,0,1
+636,35,Female,Travel_Frequently,4,Research & Development,130.0,25,3,10,1,0
+900,36,Male,Travel_Frequently,3,Research & Development,469.0,3,3,12,0,1
+1448,41,Male,Travel_Rarely,3,Sales,930.0,3,2,14,0,1
+215,41,Female,Travel_Rarely,3,Sales,896.0,6,3,16,1,0
+925,42,Female,Travel_Rarely,4,Research & Development,603.0,7,4,18,1,0
+27,42,Male,Travel_Rarely,4,Sales,691.0,8,3,10,0,1
+1061,24,Female,Non-Travel,2,Sales,830.0,13,3,1,1,0
+829,33,Female,Travel_Rarely,4,Sales,603.0,9,3,6,1,0
+650,43,Female,Travel_Frequently,3,Research & Development,422.0,1,3,12,1,0
+638,25,Male,Travel_Rarely,1,Sales,583.0,4,2,5,0,1
+722,38,Male,Travel_Frequently,1,Research & Development,1391.0,10,3,3,0,1
+1074,33,Male,Travel_Rarely,5,Research & Development,516.0,8,3,14,0,1
+624,53,Female,Travel_Rarely,2,Sales,661.0,7,2,35,1,0
+812,43,Female,Travel_Frequently,3,Research & Development,1082.0,27,3,18,1,0
+256,42,Female,Travel_Rarely,3,Research & Development,269.0,2,2,10,1,0
+25,53,Female,Travel_Rarely,3,Research & Development,1282.0,5,3,26,1,0
+336,29,Male,Travel_Rarely,4,Research & Development,318.0,8,1,7,0,1
+572,29,Female,Travel_Rarely,3,Research & Development,657.0,27,3,11,1,0
+47,37,Male,Travel_Rarely,2,Research & Development,408.0,19,3,8,0,1
+106,50,Female,Travel_Frequently,3,Research & Development,1115.0,1,3,28,1,0
+349,29,Male,Non-Travel,3,Sales,746.0,2,3,4,0,1
+55,33,Female,Travel_Frequently,2,Research & Development,515.0,1,3,15,1,0
+774,55,Male,Non-Travel,1,Research & Development,444.0,2,2,31,0,1
+213,51,Male,Travel_Rarely,4,Research & Development,1469.0,8,2,16,0,1
+120,30,Male,Travel_Frequently,3,Research & Development,1312.0,23,1,10,0,1
+899,49,Male,Travel_Rarely,2,Research & Development,1098.0,4,2,23,0,1
+707,47,Male,Travel_Frequently,4,Research & Development,1379.0,16,4,20,0,1
+72,31,Male,Travel_Rarely,4,Research & Development,1082.0,1,3,1,0,1
+1321,47,Female,Travel_Rarely,4,Research & Development,207.0,9,3,7,1,0
+938,58,Male,Travel_Rarely,4,Research & Development,848.0,23,3,2,0,1
+45,41,Female,Travel_Rarely,3,Research & Development,1360.0,12,3,23,1,0
+1460,29,Female,Travel_Rarely,4,Research & Development,468.0,28,2,5,1,0
+523,50,Male,Travel_Rarely,1,Research & Development,1207.0,28,4,20,0,1
+1426,32,Female,Travel_Rarely,4,Research & Development,267.0,29,2,6,1,0
+1140,44,Female,Travel_Rarely,3,Research & Development,1313.0,7,3,23,1,0
+826,38,Male,Travel_Rarely,3,Human Resources,433.0,1,4,7,0,1
+762,26,Male,Travel_Frequently,3,Research & Development,342.0,2,3,6,0,1
+533,40,Male,Travel_Frequently,4,Sales,580.0,5,2,20,0,1
+603,45,Female,Travel_Rarely,3,Research & Development,252.0,2,2,1,1,0
+465,46,Female,Travel_Frequently,1,Research & Development,1034.0,18,3,28,1,0
+780,28,Male,Non-Travel,2,Research & Development,1366.0,24,2,10,0,1
+1252,34,Male,Travel_Rarely,4,Research & Development,181.0,2,4,6,0,1
+745,55,Male,Travel_Frequently,4,Research & Development,135.0,18,3,17,0,1
+909,19,Female,Travel_Rarely,3,Research & Development,265.0,25,4,1,1,0
+60,32,Male,Travel_Rarely,3,Research & Development,427.0,1,3,9,0,1
+1029,40,Male,Non-Travel,4,Research & Development,663.0,9,3,11,0,1
+92,30,Female,Travel_Rarely,2,Sales,1334.0,4,2,11,1,0
+666,22,Female,Travel_Rarely,1,Research & Development,617.0,3,3,4,1,0
+678,48,Male,Travel_Rarely,4,Research & Development,1469.0,20,3,13,0,1
+194,45,Male,Non-Travel,2,Research & Development,1195.0,2,2,22,0,1
+280,53,Male,Travel_Rarely,4,Research & Development,1070.0,3,3,21,0,1
+359,36,Male,Travel_Frequently,4,Sales,541.0,3,2,16,0,1
+519,29,Male,Travel_Frequently,4,Research & Development,806.0,1,1,10,0,1
+778,46,Female,Travel_Rarely,4,Research & Development,1003.0,8,2,19,1,0
+737,41,Female,Travel_Rarely,2,Research & Development,549.0,7,3,8,1,0
+182,41,Female,Travel_Rarely,2,Sales,1356.0,20,3,4,1,0
+994,52,Female,Travel_Frequently,2,Research & Development,322.0,28,4,24,1,0
+110,51,Female,Travel_Frequently,4,Research & Development,1456.0,1,2,23,1,0
+42,26,Male,Travel_Rarely,3,Research & Development,1357.0,25,1,1,0,1
+1102,36,Male,Travel_Rarely,4,Sales,1157.0,2,3,7,0,1
+204,38,Male,Travel_Rarely,1,Research & Development,1180.0,29,3,17,0,1
+1144,31,Male,Travel_Frequently,4,Sales,715.0,2,3,10,0,1
+52,44,Female,Travel_Rarely,5,Sales,1488.0,1,3,9,1,0
+545,30,Male,Travel_Rarely,5,Sales,501.0,27,3,10,0,1
+952,31,Female,Travel_Frequently,3,Sales,1060.0,1,3,3,1,0
+997,27,Female,Travel_Rarely,4,Research & Development,135.0,17,3,8,1,0
+819,28,Male,Travel_Rarely,1,Research & Development,1451.0,2,2,6,0,1
+724,24,Female,Travel_Rarely,1,Research & Development,1206.0,17,2,5,1,0
+183,50,Male,Travel_Rarely,3,Research & Development,328.0,1,2,5,0,1
+137,39,Female,Travel_Rarely,4,Sales,1329.0,4,2,17,1,0
+931,30,Female,Non-Travel,2,Research & Development,879.0,9,3,10,1,0
+80,30,Male,Travel_Rarely,1,Research & Development,852.0,1,2,10,0,1
+1188,29,Male,Travel_Rarely,3,Sales,991.0,5,2,10,0,1
+105,59,Female,Non-Travel,4,Human Resources,1420.0,2,2,30,1,0
+541,36,Female,Non-Travel,3,Research & Development,427.0,8,4,10,1,0
+711,29,Female,Travel_Rarely,3,Research & Development,906.0,10,2,3,1,0
+480,30,Male,Travel_Frequently,4,Sales,448.0,12,2,1,0,1
+165,50,Female,Travel_Rarely,3,Research & Development,1452.0,11,3,21,1,0
+248,37,Female,Travel_Rarely,2,Research & Development,1017.0,1,2,17,1,0
+307,38,Female,Travel_Rarely,2,Research & Development,849.0,25,2,19,1,0
+446,41,Male,Non-Travel,2,Sales,267.0,10,3,16,0,1
+1258,29,Female,Travel_Rarely,3,Research & Development,590.0,4,2,1,1,0
+334,45,Male,Travel_Rarely,4,Research & Development,549.0,8,3,12,0,1
+97,28,Male,Non-Travel,3,Sales,120.0,4,3,5,0,1
+1387,29,Male,Travel_Rarely,3,Research & Development,136.0,1,3,6,0,1
+799,42,Male,Travel_Rarely,2,Research & Development,469.0,2,3,23,0,1
+904,48,Male,Travel_Rarely,3,Research & Development,715.0,1,2,25,0,1
+102,20,Female,Travel_Frequently,3,Research & Development,871.0,6,2,1,1,0
+434,31,Male,Travel_Rarely,1,Research & Development,1274.0,9,3,13,0,1
+1228,41,Male,Non-Travel,3,Human Resources,552.0,4,1,10,0,1
+1313,29,Male,Travel_Rarely,3,Human Resources,350.0,13,2,4,0,1
+839,42,Male,Travel_Rarely,4,Sales,647.0,4,3,9,0,1
+1453,36,Female,Travel_Rarely,4,Sales,1120.0,11,2,8,1,0
+302,28,Male,Travel_Rarely,2,Research & Development,1476.0,16,4,9,0,1
+1237,32,Male,Travel_Rarely,2,Sales,964.0,1,1,10,0,1
+1199,36,Male,Travel_Rarely,4,Research & Development,1351.0,26,3,10,0,1
+388,42,Female,Travel_Rarely,4,Research & Development,201.0,1,3,8,1,0
+235,43,Female,Travel_Rarely,3,Sales,1034.0,16,3,22,1,0
+1220,36,Female,Travel_Rarely,4,Sales,530.0,2,3,17,1,0
+267,25,Male,Non-Travel,2,Research & Development,675.0,5,4,6,0,1
+305,36,Female,Non-Travel,4,Research & Development,1105.0,24,3,11,1,0
+117,36,Female,Travel_Frequently,2,Sales,1467.0,11,3,10,1,0
+1187,38,Male,Travel_Frequently,3,Research & Development,1189.0,1,3,19,0,1
+673,33,Male,Travel_Rarely,4,Research & Development,1198.0,1,2,6,0,1
+249,45,Male,Travel_Frequently,4,Research & Development,1199.0,7,4,9,0,1
+1350,27,Female,Travel_Rarely,2,Sales,511.0,2,4,9,1,0
+1058,34,Female,Travel_Rarely,4,Sales,790.0,24,2,16,1,0
+71,29,Male,Travel_Rarely,3,Research & Development,1328.0,2,3,6,0,1
+94,32,Male,Travel_Rarely,4,Sales,1093.0,6,3,12,0,1
+810,46,Male,Travel_Rarely,1,Sales,406.0,3,3,23,0,1
+33,39,Male,Travel_Rarely,3,Sales,895.0,5,3,19,0,1
+1078,44,Male,Travel_Rarely,3,Research & Development,136.0,28,3,24,0,1
+448,40,Female,Travel_Rarely,3,Research & Development,302.0,6,3,22,1,0
+445,55,Female,Travel_Rarely,5,Sales,1117.0,18,3,37,1,0
+716,41,Male,Travel_Frequently,3,Research & Development,840.0,9,3,21,0,1
+849,43,Female,Travel_Rarely,3,Sales,1372.0,9,1,7,1,0
+1120,38,Female,Travel_Rarely,3,Sales,437.0,16,3,8,1,0
+1249,29,Female,Travel_Rarely,3,Sales,428.0,9,1,2,1,0
+1004,26,Male,Travel_Rarely,3,Research & Development,652.0,7,4,8,0,1
+77,45,Male,Travel_Rarely,4,Research & Development,193.0,6,3,17,0,1
+84,34,Male,Travel_Rarely,2,Research & Development,1153.0,1,3,5,0,1
+982,38,Male,Travel_Frequently,3,Research & Development,693.0,7,4,4,0,1
+82,55,Male,Travel_Rarely,2,Sales,111.0,1,3,24,0,1
+457,18,Male,Travel_Frequently,3,Sales,1306.0,5,3,0,0,1
+1156,40,Female,Travel_Rarely,3,Research & Development,884.0,15,2,18,1,0
+676,35,Female,Travel_Rarely,1,Research & Development,1137.0,21,3,10,1,0
+944,28,Female,Non-Travel,3,Research & Development,1476.0,1,1,10,1,0
+1197,20,Male,Travel_Rarely,1,Sales,727.0,9,3,2,0,1
+436,33,Male,Travel_Rarely,1,Research & Development,587.0,10,1,8,0,1
+644,31,Male,Travel_Rarely,4,Research & Development,1222.0,11,3,8,0,1
+785,40,Male,Travel_Rarely,4,Research & Development,1492.0,20,3,14,0,1
+867,50,Female,Travel_Frequently,3,Research & Development,1421.0,2,3,32,1,0
+1170,27,Male,Travel_Frequently,3,Research & Development,591.0,2,3,6,0,1
+404,28,Male,Travel_Rarely,2,Research & Development,1300.0,17,3,10,0,1
+1278,36,Male,Travel_Rarely,3,Research & Development,1383.0,10,3,15,0,1
+1043,53,Male,Travel_Rarely,3,Research & Development,447.0,2,4,35,0,1
+1287,42,Male,Travel_Rarely,3,Research & Development,1128.0,13,4,10,0,1
+104,37,Male,Non-Travel,2,Research & Development,1040.0,2,2,17,0,1
+609,43,Male,Travel_Rarely,2,Research & Development,589.0,14,3,22,0,1
+910,23,Male,Travel_Rarely,2,Research & Development,373.0,1,3,1,0,1
+1000,52,Female,Travel_Rarely,4,Research & Development,258.0,8,3,12,1,0
+893,29,Female,Travel_Rarely,3,Research & Development,1010.0,1,3,3,1,0
+62,50,Female,Travel_Rarely,2,Research & Development,989.0,7,2,29,1,0
+281,42,Male,Travel_Rarely,1,Sales,635.0,1,3,20,0,1
+1469,34,Male,Travel_Rarely,3,Research & Development,628.0,8,4,6,0,1
+238,32,Female,Travel_Rarely,2,Sales,1401.0,4,3,6,1,0
+223,38,Male,Travel_Rarely,3,Sales,119.0,3,3,17,0,1
+145,30,Female,Travel_Rarely,3,Research & Development,201.0,5,3,8,1,0
+1371,56,Female,Travel_Rarely,5,Sales,1443.0,11,2,6,1,0
+373,27,Male,Travel_Rarely,2,Research & Development,1469.0,1,3,5,0,1
+118,36,Female,Travel_Rarely,2,Research & Development,922.0,3,3,7,1,0
+1286,40,Female,Travel_Rarely,2,Research & Development,616.0,2,3,7,1,0
+250,37,Male,Travel_Frequently,3,Research & Development,504.0,10,3,17,0,1
+1415,33,Male,Non-Travel,2,Research & Development,1313.0,1,2,1,0,1
+9,36,Male,Travel_Rarely,3,Research & Development,1299.0,27,3,17,0,1
+449,39,Female,Travel_Frequently,1,Research & Development,443.0,8,3,8,1,0
+708,36,Male,Non-Travel,4,Sales,1229.0,8,3,12,0,1
+255,25,Female,Travel_Rarely,3,Research & Development,685.0,1,3,5,1,0
+593,36,Female,Travel_Rarely,3,Research & Development,676.0,1,3,10,1,0
+389,37,Male,Travel_Rarely,4,Research & Development,1305.0,10,3,18,0,1
+918,51,Male,Travel_Frequently,3,Sales,237.0,9,3,31,0,1
+1176,49,Female,Travel_Rarely,4,Research & Development,301.0,22,3,27,1,0
+557,35,Female,Non-Travel,4,Research & Development,1225.0,2,3,16,1,0
+1262,43,Male,Travel_Frequently,3,Research & Development,807.0,17,2,6,0,1
+802,33,Female,Travel_Frequently,3,Sales,970.0,7,3,4,1,0
+460,26,Male,Travel_Rarely,2,Sales,775.0,29,3,8,0,1
+723,46,Male,Travel_Rarely,2,Research & Development,566.0,7,3,13,0,1
+1354,56,Male,Travel_Rarely,2,Research & Development,1162.0,24,3,5,0,1
+144,32,Male,Travel_Frequently,2,Sales,689.0,9,1,9,0,1
+501,30,Female,Travel_Frequently,3,Research & Development,160.0,3,3,1,1,0
+1106,30,Male,Travel_Rarely,3,Sales,740.0,1,2,10,0,1
+739,27,Female,Travel_Rarely,4,Research & Development,1055.0,2,3,4,1,0
+1357,42,Male,Travel_Rarely,3,Research & Development,1396.0,6,3,18,0,1
+731,20,Female,Travel_Rarely,3,Research & Development,1097.0,11,2,1,1,0
+539,50,Male,Travel_Rarely,4,Sales,316.0,8,3,4,0,1
+177,19,Male,Travel_Rarely,3,Research & Development,303.0,2,2,1,0,1
+1417,31,Male,Travel_Rarely,2,Sales,1154.0,2,3,3,0,1
+697,29,Female,Travel_Frequently,3,Sales,1404.0,20,3,3,1,0
+1325,42,Male,Travel_Rarely,3,Research & Development,1142.0,8,3,8,0,1
+1340,36,Female,Travel_Rarely,4,Sales,1266.0,10,2,10,1,0
+838,42,Male,Travel_Frequently,3,Sales,481.0,12,3,22,0,1
+861,46,Female,Travel_Rarely,3,Sales,1402.0,2,3,28,1,0
+1462,39,Female,Travel_Rarely,1,Sales,722.0,24,2,21,1,0
+7,30,Male,Travel_Rarely,1,Research & Development,1358.0,24,3,1,0,1
+1018,36,Male,Travel_Rarely,4,Research & Development,172.0,4,2,10,0,1
+667,41,Female,Travel_Rarely,4,Research & Development,1085.0,2,1,10,1,0
+1137,22,Female,Non-Travel,2,Research & Development,457.0,26,2,4,1,0
+357,21,Female,Travel_Frequently,1,Sales,756.0,1,2,3,1,0
+783,41,Female,Travel_Rarely,2,Research & Development,509.0,7,4,10,1,0
+1108,35,Male,Travel_Rarely,3,Research & Development,992.0,1,2,3,0,1
+329,47,Male,Travel_Rarely,5,Research & Development,1482.0,5,3,21,0,1
+1034,45,Male,Travel_Rarely,3,Research & Development,1038.0,20,1,24,0,1
+1125,29,Male,Travel_Frequently,1,Research & Development,995.0,2,3,6,0,1
+1464,26,Female,Travel_Rarely,3,Sales,1167.0,5,2,5,1,0
+258,51,Male,Travel_Rarely,3,Research & Development,833.0,1,3,1,0,1
+1368,34,Male,Travel_Frequently,4,Research & Development,735.0,22,2,16,0,1
+372,35,Male,Travel_Rarely,4,Research & Development,755.0,9,2,10,0,1
+1083,40,Male,Travel_Rarely,4,Research & Development,676.0,9,3,15,0,1
+887,42,Female,Travel_Frequently,5,Research & Development,458.0,26,3,20,1,0
+142,38,Female,Travel_Rarely,5,Research & Development,364.0,3,3,19,1,0
+525,24,Female,Travel_Rarely,2,Sales,693.0,3,3,4,1,0
+1124,39,Male,Travel_Rarely,3,Sales,1462.0,6,4,11,0,1
+967,40,Male,Travel_Rarely,4,Research & Development,329.0,1,3,7,0,1
+1099,45,Male,Travel_Rarely,4,Research & Development,538.0,1,3,10,0,1
+1457,40,Female,Travel_Rarely,4,Research & Development,1194.0,2,3,20,1,0
+440,34,Female,Travel_Frequently,3,Human Resources,988.0,23,3,11,1,0
+531,32,Female,Travel_Rarely,2,Research & Development,1018.0,3,3,10,1,0
+1177,50,Female,Travel_Rarely,5,Research & Development,813.0,17,2,19,1,0
+226,37,Male,Travel_Frequently,4,Sales,319.0,4,3,13,0,1
+1007,29,Female,Travel_Frequently,1,Research & Development,337.0,14,3,9,1,0
+228,35,Female,Travel_Frequently,3,Sales,944.0,1,3,10,1,0
+1306,31,Female,Travel_Frequently,4,Sales,1125.0,7,3,9,1,0
+1272,38,Female,Travel_Rarely,2,Research & Development,1153.0,6,2,5,1,0
+212,27,Female,Travel_Frequently,3,Sales,1242.0,20,3,7,1,0
+79,46,Male,Travel_Rarely,2,Human Resources,945.0,5,3,16,0,1
+148,41,Male,Travel_Rarely,4,Research & Development,933.0,9,3,7,0,1
+814,40,Male,Travel_Rarely,3,Research & Development,1308.0,14,2,21,0,1
+865,30,Male,Travel_Rarely,4,Sales,1329.0,29,3,8,0,1
+874,30,Male,Travel_Rarely,4,Research & Development,853.0,7,3,10,0,1
+671,34,Male,Travel_Rarely,3,Research & Development,546.0,10,3,1,0,1
+1132,40,Female,Travel_Rarely,2,Sales,118.0,14,3,5,1,0
+555,29,Male,Travel_Rarely,3,Sales,1090.0,10,3,2,0,1
+869,46,Male,Travel_Rarely,2,Research & Development,1450.0,15,3,25,0,1
+133,41,Male,Travel_Rarely,1,Sales,802.0,9,3,12,0,1
+1366,39,Female,Non-Travel,4,Sales,1251.0,21,1,10,1,0
+823,29,Female,Travel_Frequently,3,Research & Development,490.0,10,3,8,1,0
+408,52,Female,Travel_Rarely,2,Research & Development,1490.0,4,3,31,1,0
+989,37,Male,Travel_Rarely,1,Research & Development,1439.0,4,3,8,0,1
+507,29,Female,Travel_Rarely,2,Sales,1176.0,3,3,6,1,0
+1200,44,Female,Travel_Rarely,3,Human Resources,528.0,1,3,8,1,0
+504,45,Female,Travel_Frequently,4,Sales,306.0,26,3,5,1,0
+993,25,Male,Travel_Rarely,1,Sales,1372.0,18,4,6,0,1
+347,47,Male,Travel_Frequently,1,Sales,1309.0,4,3,5,0,1
+386,37,Female,Travel_Rarely,3,Research & Development,1107.0,14,3,18,1,0
+0,41,Female,Travel_Rarely,2,Sales,1102.0,1,3,8,1,0
+360,57,Male,Travel_Rarely,4,Research & Development,593.0,1,3,15,0,1
+828,18,Male,Non-Travel,1,Research & Development,247.0,8,3,0,0,1
+1388,32,Female,Non-Travel,4,Research & Development,1146.0,15,3,9,1,0
+475,26,Male,Travel_Rarely,2,Sales,703.0,28,3,6,0,1
+1255,33,Female,Travel_Rarely,3,Sales,211.0,16,3,11,1,0
+57,35,Female,Travel_Rarely,4,Research & Development,1142.0,23,3,4,1,0
+637,32,Male,Non-Travel,3,Research & Development,300.0,1,3,4,0,1
+1281,35,Male,Travel_Rarely,3,Sales,303.0,27,3,10,0,1
+1032,39,Female,Non-Travel,3,Research & Development,592.0,2,2,11,1,0
+966,58,Female,Travel_Rarely,4,Research & Development,601.0,7,2,31,1,0
+172,36,Male,Travel_Frequently,2,Research & Development,1480.0,3,3,13,0,1
+450,31,Male,Travel_Rarely,1,Sales,828.0,2,3,10,0,1
+125,26,Female,Travel_Rarely,3,Research & Development,841.0,6,2,5,1,0
+940,39,Male,Travel_Rarely,3,Research & Development,360.0,23,3,6,0,1
+530,27,Female,Travel_Rarely,2,Research & Development,608.0,1,3,9,1,0
+857,44,Male,Travel_Rarely,4,Research & Development,1097.0,10,3,6,0,1
+713,45,Female,Travel_Rarely,4,Research & Development,974.0,1,3,8,1,0
+90,40,Male,Travel_Frequently,4,Research & Development,530.0,1,2,22,0,1
+1421,47,Female,Non-Travel,1,Research & Development,1162.0,1,3,14,1,0
+181,34,Female,Travel_Rarely,2,Research & Development,629.0,27,3,9,1,0
+875,44,Male,Travel_Rarely,4,Research & Development,200.0,29,3,20,0,1
+968,36,Female,Travel_Frequently,3,Sales,607.0,7,4,17,1,0
+786,27,Male,Non-Travel,5,Research & Development,1277.0,8,1,3,0,1
+414,24,Female,Travel_Rarely,1,Sales,1448.0,1,3,6,1,0
+251,39,Female,Travel_Frequently,4,Research & Development,505.0,2,3,20,1,0
+69,36,Male,Travel_Rarely,3,Research & Development,318.0,9,2,2,0,1
+803,34,Male,Non-Travel,4,Research & Development,697.0,3,2,6,0,1
+131,50,Female,Travel_Frequently,3,Sales,809.0,12,3,16,1,0
+300,41,Male,Travel_Rarely,4,Sales,334.0,2,3,22,0,1
+985,31,Male,Travel_Rarely,4,Research & Development,330.0,22,3,10,0,1
+326,39,Male,Travel_Frequently,2,Research & Development,672.0,7,2,21,0,1
+1435,44,Male,Travel_Rarely,3,Research & Development,1037.0,1,3,6,0,1
+1091,33,Male,Travel_Rarely,3,Research & Development,575.0,25,2,5,0,1
+499,33,Male,Travel_Rarely,4,Sales,1216.0,8,3,6,0,1
+1433,25,Female,Travel_Rarely,2,Sales,1382.0,8,3,6,1,0
+832,37,Female,Travel_Rarely,2,Research & Development,367.0,25,2,9,1,0
+364,37,Female,Travel_Rarely,3,Research & Development,921.0,10,3,17,1,0
+495,27,Male,Travel_Rarely,1,Sales,1420.0,2,3,5,0,1
+1413,25,Male,Travel_Rarely,1,Research & Development,977.0,2,3,7,0,1
+338,30,Female,Travel_Rarely,3,Sales,570.0,5,2,10,1,0
+421,29,Female,Travel_Rarely,5,Research & Development,408.0,25,2,6,1,0
+164,27,Male,Non-Travel,3,Research & Development,1450.0,3,2,1,0,1
+28,44,Female,Travel_Rarely,4,Research & Development,477.0,7,2,24,1,0
+516,23,Male,Travel_Rarely,3,Research & Development,885.0,4,4,5,0,1
+193,43,Male,Non-Travel,3,Research & Development,1344.0,7,4,7,0,1
+932,29,Female,Travel_Rarely,3,Research & Development,806.0,7,3,10,1,0
+1334,27,Female,Travel_Frequently,3,Research & Development,1131.0,15,2,8,1,0
+1333,46,Female,Travel_Rarely,3,Sales,1254.0,10,3,14,1,0
+169,32,Male,Travel_Rarely,5,Research & Development,120.0,6,3,8,0,1
+167,30,Female,Travel_Rarely,3,Sales,1339.0,5,3,12,1,0
+652,37,Male,Non-Travel,2,Sales,1252.0,19,3,10,0,1
+173,30,Male,Non-Travel,3,Research & Development,111.0,9,3,12,0,1
+518,38,Female,Travel_Rarely,4,Sales,243.0,7,2,8,1,0
+1189,33,Male,Travel_Rarely,4,Sales,392.0,2,3,6,0,1
+1157,35,Female,Non-Travel,4,Research & Development,208.0,8,3,15,1,0
+912,26,Male,Travel_Rarely,2,Research & Development,583.0,4,3,8,0,1
+491,43,Male,Travel_Frequently,5,Research & Development,1001.0,9,3,10,0,1
+73,32,Male,Travel_Rarely,3,Research & Development,548.0,1,3,10,0,1
+1227,31,Male,Travel_Rarely,4,Research & Development,741.0,2,3,6,0,1
+587,52,Female,Travel_Rarely,4,Research & Development,1325.0,11,3,9,1,0
+750,44,Female,Travel_Rarely,3,Sales,1448.0,28,4,23,1,0
+657,29,Female,Travel_Rarely,1,Research & Development,1086.0,7,2,8,1,0
+842,28,Female,Travel_Rarely,1,Research & Development,1485.0,12,3,1,1,0
+234,33,Male,Travel_Rarely,3,Research & Development,813.0,14,3,8,0,1
+732,30,Female,Travel_Frequently,3,Research & Development,109.0,5,3,4,1,0
+214,30,Female,Travel_Rarely,3,Research & Development,1005.0,3,3,8,1,0
+162,28,Male,Travel_Rarely,3,Research & Development,440.0,21,3,5,0,1
+132,31,Female,Travel_Rarely,3,Sales,542.0,20,1,4,1,0
+1436,21,Male,Travel_Rarely,1,Sales,501.0,5,3,2,0,1
+222,37,Male,Travel_Frequently,3,Research & Development,663.0,11,3,10,0,1
+1202,38,Female,Travel_Rarely,2,Research & Development,1495.0,4,3,7,1,0
+934,25,Female,Travel_Rarely,3,Research & Development,266.0,1,3,2,1,0
+185,33,Female,Travel_Rarely,3,Research & Development,931.0,14,3,8,1,0
+41,27,Female,Travel_Rarely,4,Research & Development,1240.0,2,3,1,1,0
+692,32,Female,Travel_Rarely,4,Research & Development,498.0,3,3,8,1,0
+108,25,Male,Travel_Rarely,1,Research & Development,1280.0,7,2,2,0,1
+38,36,Female,Travel_Rarely,4,Research & Development,852.0,5,2,6,1,0
+568,55,Male,Travel_Rarely,3,Research & Development,725.0,2,3,24,0,1
+1320,42,Male,Non-Travel,4,Research & Development,355.0,10,3,10,0,1
+1339,22,Male,Travel_Rarely,1,Research & Development,391.0,7,3,1,0,1
+1412,30,Male,Travel_Rarely,2,Research & Development,911.0,1,3,12,0,1
+483,35,Male,Travel_Rarely,2,Research & Development,538.0,25,2,9,0,1
+468,52,Male,Travel_Rarely,2,Research & Development,956.0,6,3,18,0,1
+890,54,Female,Travel_Frequently,4,Research & Development,966.0,1,3,33,1,0
+947,52,Male,Travel_Rarely,3,Sales,1030.0,5,3,10,0,1
+24,34,Male,Travel_Rarely,1,Research & Development,699.0,6,3,8,0,1
+1401,55,Male,Travel_Rarely,4,Human Resources,189.0,26,4,35,0,1
+999,42,Female,Travel_Rarely,3,Human Resources,1147.0,10,3,21,1,0
+68,35,Male,Travel_Frequently,3,Research & Development,664.0,1,3,5,0,1
+884,40,Female,Travel_Rarely,3,Sales,107.0,10,2,7,1,0
+1239,31,Female,Travel_Frequently,1,Research & Development,163.0,24,3,9,1,0
+366,41,Male,Travel_Frequently,3,Sales,143.0,4,3,8,0,1
+505,26,Female,Travel_Rarely,3,Research & Development,991.0,6,3,3,1,0
+850,32,Female,Non-Travel,1,Sales,862.0,2,3,1,1,0
+1289,38,Male,Non-Travel,3,Human Resources,1336.0,2,3,13,0,1
+383,22,Female,Travel_Rarely,3,Research & Development,253.0,11,3,2,1,0
+734,22,Male,Travel_Rarely,1,Research & Development,217.0,8,1,4,0,1
+717,27,Female,Travel_Rarely,4,Research & Development,1134.0,16,3,4,1,0
+1308,38,Female,Travel_Rarely,4,Sales,723.0,2,1,20,1,0
+454,29,Male,Travel_Rarely,3,Research & Development,232.0,19,3,8,0,1
+264,28,Male,Travel_Rarely,4,Research & Development,529.0,2,3,5,0,1
+75,31,Female,Travel_Rarely,4,Research & Development,746.0,8,3,11,1,0
+914,55,Male,Non-Travel,1,Research & Development,177.0,8,2,34,0,1
+232,59,Male,Travel_Rarely,2,Human Resources,818.0,6,3,7,0,1
+444,48,Female,Travel_Rarely,5,Sales,163.0,2,3,14,1,0
+395,43,Male,Travel_Frequently,3,Research & Development,313.0,21,3,8,0,1
+611,35,Male,Travel_Rarely,3,Research & Development,950.0,7,3,17,0,1
+176,33,Male,Travel_Rarely,3,Research & Development,134.0,2,3,4,0,1
+18,53,Female,Travel_Rarely,4,Sales,1219.0,2,2,31,1,0
+1285,46,Male,Non-Travel,2,Sales,849.0,26,2,6,0,1
+1035,31,Female,Travel_Rarely,2,Human Resources,1398.0,8,4,8,1,0
+341,38,Male,Travel_Rarely,2,Research & Development,343.0,15,2,12,0,1
+1010,55,Male,Travel_Rarely,4,Research & Development,1136.0,1,4,31,0,1
+879,60,Male,Travel_Rarely,4,Sales,696.0,7,4,12,0,1
+595,58,Male,Travel_Rarely,4,Research & Development,286.0,2,3,40,0,1
+61,38,Female,Travel_Frequently,5,Research & Development,653.0,29,3,10,1,0
+1235,46,Male,Travel_Rarely,3,Sales,1277.0,2,3,13,0,1
+272,28,Male,Travel_Rarely,3,Research & Development,1158.0,9,3,5,0,1
+1444,56,Male,Travel_Rarely,2,Research & Development,310.0,7,3,14,0,1
+872,33,Female,Travel_Frequently,3,Sales,1146.0,25,3,10,1,0
+1098,40,Male,Non-Travel,2,Research & Development,1142.0,8,3,8,0,1
+1379,27,Female,Travel_Frequently,3,Human Resources,1337.0,22,2,1,1,0
+278,26,Female,Travel_Frequently,3,Research & Development,1479.0,1,3,6,1,0
+1288,35,Male,Non-Travel,2,Research & Development,1180.0,2,3,15,0,1
+694,33,Female,Travel_Rarely,3,Research & Development,1069.0,1,2,6,1,0
+368,40,Male,Travel_Rarely,2,Sales,575.0,22,2,8,0,1
+1353,34,Male,Non-Travel,4,Research & Development,967.0,16,1,5,0,1
+36,50,Male,Travel_Rarely,2,Sales,869.0,3,2,3,0,1
+735,48,Male,Travel_Rarely,3,Research & Development,277.0,6,2,19,0,1
+1305,54,Female,Travel_Rarely,4,Research & Development,431.0,7,3,14,1,0
+662,20,Female,Travel_Rarely,3,Sales,500.0,2,2,2,1,0
+1293,43,Male,Non-Travel,3,Research & Development,343.0,9,3,7,0,1
+1324,29,Male,Travel_Rarely,1,Research & Development,726.0,29,1,11,0,1
+977,34,Female,Non-Travel,1,Research & Development,999.0,26,2,5,1,0
+547,42,Male,Travel_Frequently,3,Research & Development,933.0,19,4,7,0,1
+1169,27,Female,Travel_Rarely,3,Research & Development,486.0,8,4,5,1,0
+688,19,Male,Travel_Rarely,3,Sales,419.0,21,2,1,0,1
+738,39,Female,Travel_Rarely,1,Research & Development,466.0,1,2,21,1,0
+191,27,Female,Travel_Rarely,3,Research & Development,894.0,9,3,7,1,0
+919,59,Male,Travel_Rarely,4,Research & Development,1429.0,18,3,25,0,1
+456,31,Male,Travel_Rarely,3,Sales,688.0,7,2,10,0,1
+868,28,Male,Travel_Rarely,4,Research & Development,1179.0,19,2,6,0,1
+393,34,Female,Non-Travel,4,Sales,1381.0,4,3,6,1,0
+675,31,Male,Travel_Rarely,4,Sales,154.0,7,2,13,0,1
+760,53,Female,Travel_Frequently,3,Sales,124.0,2,2,30,1,0
+1445,41,Female,Travel_Rarely,4,Research & Development,582.0,28,2,21,1,0
+728,54,Female,Travel_Rarely,3,Research & Development,1441.0,17,3,22,1,0
+419,30,Male,Non-Travel,3,Research & Development,1400.0,3,3,9,0,1
+375,49,Male,Travel_Rarely,3,Research & Development,1261.0,7,2,26,0,1
+412,46,Female,Travel_Rarely,3,Research & Development,1485.0,18,3,19,1,0
+74,36,Female,Travel_Rarely,3,Research & Development,132.0,6,4,5,1,0
+1375,32,Female,Travel_Frequently,2,Research & Development,238.0,5,4,8,1,0
+1149,27,Male,Travel_Rarely,3,Research & Development,1302.0,19,2,7,0,1
+500,32,Female,Travel_Rarely,4,Research & Development,646.0,9,3,6,1,0
+825,29,Male,Travel_Rarely,1,Research & Development,718.0,8,2,10,0,1
+195,37,Male,Travel_Rarely,3,Research & Development,290.0,21,4,8,0,1
+1134,35,Male,Travel_Rarely,2,Research & Development,1349.0,7,2,1,0,1
+616,51,Female,Travel_Rarely,4,Sales,1318.0,26,3,29,1,0
+114,34,Female,Travel_Rarely,4,Research & Development,1031.0,6,2,12,1,0
+417,40,Female,Travel_Rarely,4,Sales,1398.0,2,3,21,1,0
+1400,38,Male,Travel_Frequently,4,Human Resources,1444.0,1,3,7,0,1
+969,48,Male,Travel_Rarely,3,Research & Development,855.0,4,3,11,0,1
+604,42,Male,Travel_Rarely,3,Research & Development,933.0,29,3,10,0,1
+1405,31,Female,Non-Travel,3,Research & Development,697.0,10,3,13,1,0
+89,46,Male,Travel_Rarely,2,Sales,669.0,9,2,9,0,1
+848,35,Male,Travel_Frequently,4,Research & Development,636.0,4,2,2,0,1
+1365,29,Male,Travel_Frequently,3,Sales,746.0,24,4,1,0,1
+1404,42,Male,Non-Travel,2,Research & Development,335.0,23,2,20,0,1
+753,39,Female,Travel_Frequently,3,Research & Development,945.0,22,3,21,1,0
+498,22,Male,Travel_Rarely,1,Research & Development,604.0,6,3,3,0,1
+11,29,Female,Travel_Rarely,2,Research & Development,153.0,15,2,10,1,0
+396,43,Female,Travel_Rarely,4,Research & Development,1473.0,8,3,8,1,0
+284,26,Male,Travel_Frequently,2,Research & Development,496.0,11,3,5,0,1
+690,31,Female,Travel_Rarely,3,Research & Development,616.0,12,3,10,1,0
+1205,32,Male,Travel_Rarely,4,Research & Development,1259.0,2,3,1,0,1
+1376,38,Male,Travel_Rarely,2,Research & Development,1206.0,9,3,10,0,1
+689,20,Male,Travel_Rarely,3,Research & Development,129.0,4,3,1,0,1
+851,56,Female,Travel_Rarely,4,Research & Development,718.0,4,3,28,1,0
+159,34,Female,Travel_Frequently,4,Sales,303.0,2,3,6,1,0
+895,31,Male,Travel_Rarely,2,Research & Development,1332.0,11,3,6,0,1
+1166,48,Male,Travel_Frequently,5,Research & Development,365.0,4,2,23,0,1
+257,40,Male,Travel_Rarely,2,Research & Development,1416.0,2,3,22,0,1
+335,40,Male,Travel_Rarely,2,Sales,1124.0,1,1,6,0,1
+1380,35,Male,Travel_Rarely,4,Sales,682.0,18,3,6,0,1
+1039,34,Female,Travel_Rarely,4,Human Resources,1107.0,9,3,2,1,0
+515,35,Male,Non-Travel,3,Research & Development,727.0,3,2,1,0,1
+1015,34,Male,Travel_Frequently,4,Research & Development,560.0,1,3,10,0,1
+768,40,Male,Travel_Rarely,3,Sales,300.0,26,3,8,0,1
+1290,34,Male,Travel_Frequently,4,Research & Development,234.0,9,3,11,0,1
+761,36,Male,Travel_Rarely,3,Research & Development,660.0,15,3,9,0,1
+1080,46,Female,Travel_Rarely,3,Sales,228.0,3,3,23,1,0
+521,27,Female,Travel_Frequently,1,Sales,1410.0,3,4,6,1,0
+22,34,Female,Travel_Rarely,4,Research & Development,419.0,7,3,13,1,0
+356,42,Male,Travel_Rarely,4,Research & Development,1332.0,2,2,14,0,1
+1246,30,Female,Travel_Frequently,3,Human Resources,600.0,8,2,6,1,0
+340,37,Male,Travel_Rarely,2,Research & Development,1192.0,5,3,8,0,1
+431,54,Female,Travel_Rarely,4,Research & Development,548.0,8,3,19,1,0
+473,49,Male,Travel_Rarely,4,Research & Development,1245.0,18,2,31,0,1
+217,29,Male,Travel_Rarely,3,Research & Development,992.0,1,3,7,0,1
+911,25,Male,Travel_Frequently,1,Sales,599.0,24,1,1,0,1
+1373,38,Female,Travel_Frequently,3,Research & Development,1394.0,8,2,20,1,0
+1011,36,Female,Travel_Rarely,4,Sales,1174.0,3,3,15,1,0
+1429,39,Male,Travel_Rarely,1,Research & Development,116.0,24,3,18,0,1
+93,46,Male,Travel_Frequently,3,Research & Development,638.0,1,2,21,0,1
+1008,54,Female,Travel_Rarely,3,Research & Development,971.0,1,3,29,1,0
+696,45,Male,Non-Travel,2,Research & Development,805.0,4,3,9,0,1
+996,27,Female,Travel_Rarely,3,Sales,205.0,10,2,6,1,0
+153,45,Male,Travel_Rarely,3,Research & Development,194.0,9,3,20,0,1
+1274,31,Female,Travel_Rarely,4,Sales,196.0,29,2,13,1,0
+1467,27,Male,Travel_Rarely,3,Research & Development,155.0,4,4,6,0,1
+789,44,Male,Travel_Rarely,2,Human Resources,1376.0,1,2,24,0,1
+580,35,Female,Travel_Rarely,4,Sales,384.0,8,3,3,1,0
+703,38,Female,Non-Travel,3,Sales,152.0,10,3,6,1,0
+1233,30,Male,Travel_Rarely,1,Research & Development,793.0,16,3,10,0,1
+487,20,Female,Travel_Rarely,3,Research & Development,959.0,1,2,1,1,0
+559,38,Male,Travel_Rarely,5,Research & Development,268.0,2,3,6,0,1
+801,50,Male,Travel_Frequently,4,Sales,959.0,1,3,5,0,1
+512,27,Male,Travel_Rarely,4,Research & Development,1115.0,3,2,5,0,1
+633,36,Male,Travel_Rarely,3,Human Resources,1278.0,8,2,6,0,1
+1088,42,Male,Travel_Rarely,3,Research & Development,1210.0,2,2,4,0,1
+1310,58,Male,Travel_Frequently,4,Research & Development,1216.0,15,3,23,0,1
+790,33,Male,Travel_Rarely,3,Research & Development,654.0,5,2,9,0,1
+116,34,Female,Travel_Rarely,3,Research & Development,1354.0,5,2,14,1,0
+740,35,Male,Travel_Rarely,3,Research & Development,802.0,10,3,3,0,1
+1081,35,Female,Travel_Rarely,3,Research & Development,1029.0,16,2,11,1,0
+830,41,Male,Travel_Rarely,4,Research & Development,167.0,12,3,6,0,1
+119,43,Male,Travel_Frequently,2,Sales,394.0,26,3,25,0,1
+656,32,Male,Travel_Rarely,4,Research & Development,374.0,25,3,1,0,1
+635,35,Female,Travel_Rarely,3,Research & Development,607.0,9,2,17,1,0
+369,31,Male,Travel_Rarely,4,Research & Development,408.0,9,2,3,0,1
+268,45,Male,Travel_Rarely,2,Research & Development,1385.0,20,3,21,0,1
+655,33,Male,Travel_Rarely,2,Human Resources,1075.0,3,3,7,0,1
+935,32,Male,Travel_Rarely,3,Sales,604.0,8,4,10,0,1
+822,34,Male,Travel_Frequently,2,Research & Development,1003.0,2,3,5,0,1
+866,40,Male,Travel_Frequently,4,Sales,1184.0,2,3,5,0,1
+46,34,Male,Non-Travel,4,Sales,1065.0,23,3,10,0,1
+1265,33,Male,Non-Travel,3,Research & Development,775.0,4,3,11,0,1
+991,32,Male,Travel_Rarely,1,Sales,499.0,2,3,4,0,1
+876,20,Male,Travel_Rarely,3,Sales,654.0,21,4,2,0,1
+773,36,Female,Travel_Rarely,5,Research & Development,796.0,12,2,15,1,0
+4,27,Male,Travel_Rarely,1,Research & Development,591.0,2,3,6,0,1
+1003,25,Male,Travel_Rarely,3,Research & Development,949.0,1,3,7,0,1
+1276,37,Male,Travel_Rarely,2,Sales,589.0,9,2,5,0,1
+263,46,Female,Travel_Rarely,3,Sales,488.0,2,1,28,1,0
+1160,45,Female,Travel_Rarely,2,Research & Development,1329.0,2,2,10,1,0
+1342,34,Male,Travel_Rarely,3,Sales,1480.0,4,3,9,0,1
+443,22,Male,Travel_Frequently,1,Research & Development,1368.0,4,2,4,0,1
+1002,35,Male,Travel_Frequently,2,Research & Development,200.0,18,3,10,0,1
+1077,29,Male,Travel_Rarely,4,Research & Development,224.0,1,2,11,0,1
+837,40,Female,Travel_Frequently,4,Research & Development,593.0,9,3,20,1,0
+1312,31,Male,Travel_Rarely,5,Human Resources,359.0,18,4,2,0,1
+304,39,Male,Travel_Rarely,3,Research & Development,1132.0,1,4,19,0,1
+1151,28,Female,Travel_Rarely,3,Research & Development,580.0,27,1,6,1,0
+313,33,Female,Travel_Frequently,4,Research & Development,553.0,5,3,12,1,0
+149,19,Female,Travel_Rarely,1,Research & Development,1181.0,3,3,1,1,0
+574,34,Female,Travel_Rarely,4,Research & Development,182.0,1,4,10,1,0
+50,48,Male,Travel_Rarely,2,Research & Development,626.0,1,2,23,0,1
+1148,39,Male,Travel_Rarely,5,Research & Development,1387.0,10,3,10,0,1
+726,31,Female,Travel_Frequently,1,Research & Development,853.0,1,3,4,1,0
+833,27,Male,Travel_Rarely,3,Research & Development,199.0,6,2,4,0,1
+1115,34,Male,Travel_Rarely,4,Research & Development,479.0,7,3,1,0,1
+470,24,Male,Travel_Frequently,3,Sales,535.0,24,3,3,0,1
+971,51,Female,Travel_Rarely,2,Research & Development,1405.0,11,2,29,1,0
+653,50,Male,Non-Travel,4,Research & Development,881.0,2,3,31,0,1
+399,31,Male,Travel_Rarely,2,Research & Development,329.0,1,2,4,0,1
+511,36,Male,Travel_Rarely,2,Research & Development,913.0,9,2,13,0,1
+320,27,Male,Travel_Rarely,3,Sales,1377.0,2,3,5,0,1
+19,38,Male,Travel_Rarely,3,Research & Development,371.0,2,3,6,0,1
+684,40,Male,Travel_Rarely,4,Sales,658.0,10,2,11,0,1
+35,43,Female,Travel_Rarely,2,Research & Development,1273.0,2,4,6,1,0
+902,27,Male,Travel_Rarely,2,Research & Development,1167.0,4,3,5,0,1
+827,28,Male,Travel_Frequently,3,Research & Development,773.0,6,2,3,0,1
+1317,27,Female,Travel_Frequently,2,Research & Development,1297.0,5,3,6,1,0
+407,45,Male,Travel_Rarely,2,Research & Development,192.0,10,3,8,0,1
+920,34,Female,Travel_Frequently,3,Research & Development,135.0,19,3,15,1,0
+537,27,Male,Travel_Frequently,2,Research & Development,294.0,10,3,9,0,1
+758,59,Male,Travel_Rarely,2,Sales,1089.0,1,3,14,0,1
+1062,44,Male,Travel_Frequently,1,Research & Development,1193.0,2,3,16,0,1
+245,31,Male,Travel_Frequently,4,Research & Development,1327.0,3,3,9,0,1
+1127,23,Male,Travel_Rarely,3,Research & Development,977.0,10,4,4,0,1
+784,38,Female,Travel_Rarely,1,Research & Development,330.0,17,2,20,1,0
+489,43,Male,Travel_Rarely,4,Research & Development,782.0,6,2,21,0,1
+154,32,Female,Travel_Frequently,3,Sales,967.0,8,3,9,1,0
+961,35,Male,Travel_Frequently,4,Research & Development,482.0,4,3,9,0,1
+853,19,Male,Travel_Rarely,2,Research & Development,645.0,9,3,1,0,1
+625,45,Male,Travel_Rarely,3,Sales,930.0,9,3,18,0,1
+685,26,Male,Travel_Frequently,3,Sales,1283.0,1,2,7,0,1
+569,36,Male,Non-Travel,4,Sales,1434.0,8,2,10,0,1
+1399,43,Male,Travel_Rarely,3,Research & Development,574.0,11,3,10,0,1
+17,22,Male,Non-Travel,2,Research & Development,1123.0,16,4,1,0,1
+127,19,Male,Travel_Rarely,1,Sales,528.0,22,3,0,0,1
+927,36,Female,Travel_Rarely,4,Research & Development,429.0,2,3,18,1,0
+980,31,Female,Travel_Frequently,3,Sales,703.0,2,2,3,1,0
+1440,36,Female,Travel_Frequently,2,Research & Development,688.0,4,3,18,1,0
+190,52,Male,Travel_Rarely,4,Research & Development,699.0,1,2,34,0,1
+1139,32,Female,Travel_Rarely,4,Research & Development,634.0,5,4,6,1,0
+992,39,Male,Non-Travel,2,Research & Development,1485.0,25,3,13,0,1
+1434,52,Male,Non-Travel,4,Sales,585.0,29,3,16,0,1
+1226,32,Male,Travel_Frequently,3,Research & Development,585.0,10,3,10,0,1
+606,34,Female,Travel_Frequently,4,Research & Development,702.0,16,2,6,1,0
+180,31,Female,Travel_Rarely,1,Research & Development,140.0,12,3,7,1,0
+301,18,Female,Travel_Rarely,3,Sales,812.0,10,2,0,1,0
+496,21,Male,Travel_Rarely,1,Sales,1343.0,22,3,3,0,1
+1315,36,Female,Travel_Rarely,4,Research & Development,430.0,2,3,15,1,0
+1230,24,Male,Travel_Rarely,1,Research & Development,506.0,29,3,6,0,1
+1212,34,Female,Travel_Rarely,3,Research & Development,678.0,19,2,10,1,0
+517,25,Male,Travel_Rarely,3,Sales,810.0,8,4,4,0,1
+1069,28,Male,Travel_Rarely,3,Research & Development,1423.0,1,2,1,0,1
+476,24,Male,Travel_Rarely,2,Research & Development,823.0,17,2,1,0,1
+157,58,Female,Travel_Rarely,3,Research & Development,1145.0,9,2,9,1,0
+16,32,Male,Travel_Rarely,2,Research & Development,334.0,5,4,7,0,1
+1072,29,Female,Travel_Frequently,1,Research & Development,410.0,2,3,4,1,0
+546,29,Male,Travel_Rarely,3,Sales,1396.0,10,3,1,0,1
+658,44,Male,Travel_Rarely,2,Research & Development,661.0,9,3,8,0,1
+1201,23,Male,Travel_Rarely,1,Research & Development,1320.0,8,2,5,0,1
+1019,36,Female,Travel_Rarely,4,Sales,329.0,16,2,11,1,0
+1231,46,Male,Travel_Rarely,4,Research & Development,717.0,13,3,19,0,1
+959,40,Male,Travel_Rarely,3,Research & Development,523.0,2,3,9,0,1
+1382,31,Male,Non-Travel,2,Research & Development,976.0,3,3,4,0,1
+283,55,Male,Travel_Rarely,2,Research & Development,147.0,20,3,12,0,1
+797,26,Male,Travel_Rarely,3,Research & Development,1330.0,21,3,1,0,1
+225,59,Male,Travel_Rarely,3,Research & Development,142.0,3,2,7,0,1
+26,32,Female,Travel_Frequently,1,Research & Development,1125.0,16,1,10,1,0
+437,30,Male,Travel_Rarely,1,Sales,413.0,7,3,4,0,1
+1428,32,Male,Travel_Rarely,4,Sales,234.0,1,2,3,0,1
+229,29,Male,Travel_Rarely,1,Research & Development,896.0,18,2,4,0,1
+37,35,Female,Travel_Rarely,3,Sales,890.0,2,3,2,1,0
+749,52,Female,Travel_Rarely,1,Sales,266.0,2,1,33,1,0
+1045,40,Male,Travel_Rarely,3,Research & Development,896.0,2,3,8,0,1
+469,32,Male,Non-Travel,4,Sales,1474.0,11,4,6,0,1
+1253,33,Female,Non-Travel,3,Sales,1283.0,2,3,13,1,0
+1443,42,Male,Travel_Rarely,3,Research & Development,300.0,2,3,24,0,1
+687,36,Male,Travel_Rarely,4,Research & Development,938.0,2,3,16,0,1
+1351,48,Female,Travel_Frequently,3,Research & Development,117.0,22,3,24,1,0
+639,49,Female,Travel_Rarely,3,Research & Development,1418.0,1,3,7,1,0
+1269,43,Male,Travel_Rarely,3,Human Resources,244.0,2,3,10,0,1
+1158,37,Male,Travel_Rarely,3,Research & Development,671.0,19,3,9,0,1
+1225,45,Female,Travel_Rarely,2,Research & Development,1005.0,28,2,21,1,0
+1336,55,Male,Travel_Rarely,4,Research & Development,836.0,2,2,19,0,1
+800,28,Male,Travel_Frequently,3,Research & Development,1009.0,1,2,1,0,1
+160,22,Male,Travel_Rarely,1,Research & Development,1256.0,19,3,2,0,1
+956,56,Male,Travel_Rarely,4,Human Resources,206.0,8,3,36,0,1
+1186,35,Male,Travel_Frequently,4,Sales,880.0,12,3,13,0,1
+821,49,Male,Travel_Rarely,4,Sales,174.0,8,2,22,0,1
+1245,24,Male,Travel_Frequently,3,Human Resources,897.0,10,3,3,0,1
+877,46,Male,Travel_Rarely,4,Research & Development,150.0,2,3,12,0,1
+913,45,Female,Travel_Rarely,3,Sales,1449.0,2,1,26,1,0
+152,53,Male,Travel_Rarely,2,Sales,1436.0,6,3,13,0,1
+1346,45,Female,Travel_Rarely,2,Research & Development,556.0,25,2,10,1,0
+509,33,Male,Travel_Frequently,3,Research & Development,1296.0,6,3,15,0,1
+1135,46,Male,Travel_Rarely,4,Sales,563.0,1,4,27,0,1
+1232,35,Male,Travel_Rarely,4,Research & Development,1370.0,27,3,17,0,1
+103,34,Female,Travel_Rarely,4,Research & Development,665.0,6,3,16,1,0
+586,24,Male,Non-Travel,3,Research & Development,1092.0,9,2,1,0,1
+1302,35,Male,Travel_Rarely,4,Research & Development,185.0,23,1,6,0,1
+1143,45,Male,Non-Travel,3,Sales,336.0,26,2,10,0,1
+53,35,Male,Non-Travel,2,Research & Development,1097.0,11,2,10,0,1
+151,35,Male,Travel_Rarely,5,Sales,662.0,1,3,10,0,1
+403,41,Male,Travel_Rarely,3,Sales,645.0,1,4,10,0,1
+1425,33,Female,Travel_Rarely,2,Research & Development,501.0,15,3,10,1,0
+207,36,Female,Travel_Frequently,1,Research & Development,635.0,18,3,8,1,0
+1408,23,Male,Travel_Rarely,2,Research & Development,571.0,12,3,5,0,1
+1122,29,Male,Travel_Rarely,1,Research & Development,1370.0,3,3,10,0,1
+8,38,Male,Travel_Frequently,3,Research & Development,216.0,23,2,10,0,1
+1014,31,Female,Travel_Rarely,5,Research & Development,182.0,8,3,9,1,0
+1316,43,Male,Travel_Frequently,4,Sales,1422.0,2,3,7,0,1
+1060,24,Male,Travel_Frequently,3,Research & Development,381.0,9,3,4,0,1
+452,45,Male,Travel_Rarely,3,Sales,561.0,2,3,9,0,1
+253,42,Female,Travel_Rarely,2,Research & Development,916.0,17,4,10,1,0
+896,31,Female,Travel_Rarely,3,Research & Development,1062.0,24,2,10,1,0
+1283,28,Male,Travel_Rarely,3,Research & Development,1181.0,1,3,5,0,1
+880,32,Female,Travel_Frequently,3,Research & Development,116.0,13,2,2,1,0
+1386,26,Male,Travel_Rarely,3,Research & Development,157.0,1,3,8,0,1
+623,30,Male,Travel_Frequently,4,Research & Development,1012.0,5,2,10,0,1
+345,23,Male,Travel_Rarely,1,Research & Development,1309.0,26,3,4,0,1
+1261,38,Male,Travel_Rarely,3,Research & Development,833.0,18,1,15,0,1
+262,32,Male,Travel_Rarely,1,Research & Development,128.0,2,2,9,0,1
+150,40,Female,Travel_Frequently,3,Research & Development,1395.0,26,3,20,1,0
+472,37,Female,Travel_Rarely,4,Research & Development,446.0,1,3,8,1,0
+640,24,Male,Non-Travel,1,Research & Development,1269.0,4,2,6,0,1
+1455,40,Male,Travel_Rarely,4,Research & Development,1322.0,2,2,8,0,1
+1383,36,Male,Non-Travel,4,Research & Development,1351.0,9,4,5,0,1
+550,23,Male,Travel_Rarely,1,Research & Development,650.0,9,3,5,0,1
+928,44,Female,Travel_Rarely,3,Research & Development,621.0,15,3,10,1,0
+488,42,Female,Travel_Rarely,4,Research & Development,622.0,2,3,10,1,0
+1329,29,Male,Travel_Rarely,1,Human Resources,352.0,6,2,1,0,1
+1171,40,Male,Travel_Rarely,3,Research & Development,1329.0,7,3,10,0,1
+146,30,Male,Travel_Rarely,1,Research & Development,1427.0,2,2,6,0,1
+402,30,Female,Travel_Rarely,3,Sales,1082.0,12,3,6,1,0
+954,42,Male,Non-Travel,1,Research & Development,495.0,2,3,21,0,1
+1378,42,Male,Travel_Rarely,4,Sales,419.0,12,3,14,0,1
+659,28,Male,Travel_Rarely,4,Sales,821.0,5,3,4,0,1
+463,26,Male,Travel_Rarely,3,Research & Development,471.0,24,1,1,0,1
+186,40,Female,Travel_Rarely,1,Research & Development,989.0,4,3,21,1,0
+1147,49,Female,Travel_Rarely,4,Research & Development,722.0,25,3,10,1,0
+1224,26,Male,Travel_Rarely,4,Research & Development,390.0,17,1,3,0,1
+608,55,Male,Travel_Rarely,1,Sales,436.0,2,3,12,0,1
+143,30,Female,Travel_Rarely,3,Research & Development,438.0,18,3,5,1,0
+751,50,Female,Non-Travel,3,Sales,145.0,1,3,19,1,0
+981,35,Female,Travel_Frequently,4,Sales,662.0,18,3,5,1,0
+197,42,Female,Non-Travel,2,Research & Development,926.0,21,3,11,1,0
+883,33,Male,Travel_Rarely,3,Research & Development,117.0,9,3,15,0,1
+279,50,Male,Travel_Rarely,1,Research & Development,797.0,4,3,28,0,1
+293,26,Male,Travel_Rarely,4,Sales,950.0,4,2,8,0,1
+1442,29,Male,Travel_Rarely,4,Research & Development,1092.0,1,3,4,0,1
+400,39,Male,Travel_Frequently,1,Research & Development,1218.0,1,3,21,0,1
+122,56,Female,Travel_Rarely,4,Research & Development,441.0,14,3,7,1,0
+1207,55,Male,Travel_Rarely,3,Research & Development,1441.0,22,2,8,0,1
+202,34,Male,Travel_Frequently,4,Research & Development,878.0,10,3,5,0,1
+835,35,Male,Travel_Rarely,4,Human Resources,528.0,8,3,6,0,1
+246,33,Female,Travel_Rarely,4,Research & Development,832.0,5,2,2,1,0
+1395,31,Male,Travel_Frequently,4,Sales,754.0,26,3,10,0,1
+1381,28,Male,Non-Travel,3,Research & Development,1103.0,16,3,5,0,1
+1153,18,Female,Travel_Frequently,2,Sales,544.0,3,3,0,1,0
+384,36,Male,Travel_Rarely,2,Sales,164.0,2,2,10,0,1
+1296,30,Female,Travel_Rarely,3,Research & Development,1092.0,10,3,9,1,0
+854,45,Female,Travel_Rarely,3,Research & Development,1457.0,7,3,7,1,0
+219,54,Female,Travel_Rarely,3,Sales,1147.0,3,3,16,1,0
+641,32,Male,Travel_Frequently,2,Sales,379.0,5,3,10,0,1
+1,49,Male,Travel_Frequently,1,Research & Development,279.0,8,2,10,0,1
+112,54,Female,Non-Travel,3,Human Resources,142.0,26,4,23,1,0
+698,35,Female,Travel_Rarely,3,Sales,1219.0,18,3,5,1,0
+1402,31,Female,Travel_Rarely,1,Research & Development,1276.0,2,1,1,1,0
+951,41,Male,Non-Travel,2,Sales,256.0,10,1,19,0,1
+1291,37,Male,Travel_Rarely,4,Research & Development,370.0,10,3,10,0,1
+1326,32,Male,Travel_Rarely,4,Sales,414.0,2,2,7,0,1
+441,42,Male,Travel_Frequently,2,Research & Development,1474.0,5,3,8,0,1
+1136,28,Male,Travel_Rarely,3,Research & Development,329.0,24,3,1,0,1
+1256,38,Female,Travel_Frequently,2,Research & Development,594.0,2,2,9,1,0
+663,21,Female,Travel_Rarely,1,Research & Development,1427.0,18,3,1,1,0
+1345,35,Female,Travel_Rarely,2,Research & Development,219.0,16,2,4,1,0
+1257,31,Male,Travel_Rarely,4,Sales,1079.0,16,3,10,0,1
+1304,40,Female,Travel_Rarely,3,Research & Development,750.0,12,3,15,1,0
+317,52,Male,Travel_Rarely,4,Research & Development,723.0,8,2,11,0,1
+648,37,Female,Travel_Frequently,2,Sales,1231.0,21,3,10,1,0
+709,31,Male,Non-Travel,2,Research & Development,335.0,9,2,4,0,1
+1282,33,Male,Travel_Rarely,4,Research & Development,867.0,8,4,14,0,1
+972,18,Female,Non-Travel,3,Research & Development,1124.0,1,3,0,1,0
+627,52,Female,Travel_Frequently,4,Research & Development,890.0,25,2,31,1,0
+632,42,Male,Travel_Frequently,1,Research & Development,1271.0,2,3,8,0,1
+1248,27,Female,Travel_Rarely,3,Research & Development,1054.0,8,3,6,1,0
+1432,37,Female,Travel_Rarely,3,Research & Development,161.0,10,4,16,1,0
+1254,49,Female,Travel_Rarely,4,Sales,1313.0,11,3,8,1,0
+1356,41,Female,Travel_Rarely,3,Sales,337.0,8,3,14,1,0
+795,37,Female,Travel_Rarely,4,Sales,309.0,10,2,8,1,0
+645,29,Female,Travel_Rarely,3,Sales,341.0,1,2,5,1,0
+1012,31,Female,Travel_Frequently,4,Sales,667.0,1,1,1,1,0
+556,53,Male,Travel_Rarely,3,Research & Development,346.0,6,3,19,0,1
+681,38,Female,Travel_Rarely,3,Research & Development,1333.0,1,3,15,1,0
+577,37,Female,Travel_Rarely,1,Research & Development,571.0,10,3,6,1,0
+1109,30,Male,Travel_Rarely,4,Sales,1288.0,29,3,9,0,1
+1266,41,Male,Travel_Rarely,4,Research & Development,548.0,9,3,5,0,1
+1183,36,Male,Travel_Rarely,2,Research & Development,1040.0,3,4,13,0,1
+524,34,Female,Travel_Rarely,3,Research & Development,1442.0,9,2,9,1,0
+1059,35,Male,Travel_Rarely,1,Sales,660.0,7,3,1,0,1
+540,28,Female,Travel_Rarely,2,Research & Development,654.0,1,1,10,1,0
+1194,47,Female,Travel_Rarely,4,Sales,1225.0,2,4,29,1,0
+748,26,Male,Non-Travel,2,Sales,265.0,29,1,7,0,1
+1359,34,Female,Travel_Rarely,1,Sales,735.0,3,2,9,1,0
+484,31,Male,Travel_Rarely,4,Sales,525.0,6,4,13,0,1
+95,54,Female,Travel_Rarely,4,Research & Development,1217.0,2,3,16,1,0
+1020,47,Male,Travel_Rarely,3,Research & Development,465.0,1,3,17,0,1
+563,25,Female,Travel_Rarely,1,Sales,883.0,26,3,6,1,0
+1264,55,Male,Travel_Rarely,3,Research & Development,478.0,2,2,34,0,1
+742,50,Male,Travel_Rarely,3,Research & Development,804.0,9,3,8,0,1
+863,33,Male,Travel_Rarely,3,Human Resources,147.0,2,3,5,0,1
+891,44,Female,Travel_Rarely,1,Research & Development,1117.0,2,4,10,1,0
+1038,48,Male,Travel_Rarely,3,Sales,1221.0,7,3,15,0,1
+206,22,Male,Travel_Rarely,3,Research & Development,1136.0,5,4,4,0,1
+392,54,Male,Travel_Rarely,2,Research & Development,821.0,5,3,24,0,1
+794,34,Male,Travel_Frequently,1,Research & Development,618.0,3,3,7,0,1
+870,35,Male,Travel_Rarely,4,Sales,1361.0,17,3,15,0,1
+397,25,Female,Travel_Rarely,2,Sales,891.0,4,2,5,1,0
+766,50,Male,Travel_Rarely,4,Research & Development,1464.0,2,3,29,0,1
+1349,26,Female,Travel_Rarely,2,Research & Development,482.0,1,2,1,1,0
+1241,32,Male,Travel_Rarely,3,Sales,371.0,19,1,10,0,1
+1028,41,Male,Travel_Rarely,5,Research & Development,1283.0,5,4,7,0,1
+642,38,Male,Travel_Rarely,3,Sales,395.0,9,2,3,0,1
+612,28,Female,Travel_Rarely,4,Sales,760.0,2,3,8,1,0
+960,41,Female,Travel_Frequently,3,Sales,1018.0,1,3,10,1,0
+725,35,Male,Travel_Rarely,4,Research & Development,622.0,14,2,5,0,1
+683,25,Male,Travel_Rarely,2,Sales,867.0,19,2,1,0,1
+98,58,Male,Travel_Rarely,4,Sales,682.0,10,3,38,0,1
+804,48,Male,Non-Travel,4,Research & Development,1262.0,1,4,27,0,1
+406,52,Male,Travel_Rarely,3,Research & Development,319.0,3,2,28,0,1
+502,53,Female,Travel_Rarely,1,Sales,238.0,1,3,18,1,0
+1071,49,Female,Travel_Rarely,2,Research & Development,271.0,3,2,10,1,0
+1056,28,Male,Travel_Frequently,3,Sales,1496.0,1,3,5,0,1
+929,28,Male,Travel_Frequently,3,Research & Development,193.0,2,2,2,0,1
+779,51,Male,Travel_Rarely,4,Research & Development,1323.0,4,3,18,0,1
+200,27,Male,Travel_Frequently,1,Research & Development,472.0,1,2,6,0,1
+134,26,Female,Travel_Rarely,1,Human Resources,1355.0,25,3,8,1,0
+1051,44,Female,Travel_Frequently,5,Sales,383.0,1,3,11,1,0
+40,35,Male,Travel_Rarely,2,Research & Development,464.0,4,3,1,0,1
+1017,27,Male,Travel_Rarely,1,Research & Development,1377.0,11,3,6,0,1
+230,52,Female,Travel_Rarely,3,Research & Development,1323.0,2,2,6,1,0
+378,34,Male,Non-Travel,3,Sales,1362.0,19,4,9,0,1
+288,26,Male,Travel_Rarely,4,Research & Development,1449.0,16,3,5,0,1
+418,26,Female,Travel_Rarely,3,Research & Development,1349.0,23,3,3,1,0
+391,40,Female,Travel_Rarely,3,Research & Development,555.0,2,2,20,1,0
+592,47,Female,Travel_Rarely,2,Research & Development,202.0,2,3,26,1,0
+1162,35,Male,Travel_Rarely,3,Sales,737.0,10,2,15,0,1
+1086,50,Male,Travel_Frequently,5,Research & Development,333.0,22,1,32,0,1
+647,35,Male,Travel_Rarely,3,Research & Development,672.0,25,2,16,0,1
+1152,21,Male,Travel_Rarely,1,Research & Development,546.0,5,3,3,0,1
+1367,27,Male,Travel_Rarely,4,Research & Development,1354.0,2,3,6,0,1
+520,48,Male,Travel_Rarely,1,Sales,817.0,2,4,12,0,1
+64,36,Female,Travel_Rarely,3,Research & Development,1223.0,8,3,17,1,0
+14,28,Male,Travel_Rarely,3,Research & Development,103.0,24,2,6,0,1
+1180,36,Male,Travel_Rarely,3,Research & Development,311.0,7,3,15,0,1
+1064,30,Male,Travel_Rarely,3,Human Resources,330.0,1,3,6,0,1
+492,48,Female,Travel_Rarely,4,Research & Development,1236.0,1,2,21,1,0
+379,55,Female,Travel_Rarely,3,Research & Development,1311.0,2,3,30,1,0
+187,55,Male,Travel_Rarely,4,Research & Development,692.0,14,4,36,0,1
+763,34,Female,Travel_Rarely,4,Sales,1333.0,10,3,1,1,0
+216,30,Female,Travel_Frequently,4,Sales,334.0,26,2,9,1,0
+791,35,Male,Travel_Rarely,3,Sales,1204.0,4,3,9,0,1
+1076,54,Female,Travel_Frequently,4,Research & Development,1050.0,11,3,26,1,0
+878,42,Male,Non-Travel,5,Human Resources,179.0,2,4,10,0,1
+337,29,Male,Travel_Rarely,5,Research & Development,738.0,9,2,4,0,1
+719,47,Female,Travel_Rarely,2,Sales,955.0,4,3,9,1,0
+295,42,Female,Travel_Frequently,3,Sales,555.0,26,3,23,1,0
+1016,31,Female,Travel_Rarely,3,Research & Development,202.0,8,2,1,1,0
+1275,51,Female,Travel_Rarely,3,Research & Development,942.0,3,3,15,1,0
+455,33,Female,Travel_Rarely,5,Research & Development,922.0,1,4,10,1,0
+1466,39,Male,Travel_Rarely,1,Research & Development,613.0,6,2,9,0,1
+815,21,Female,Travel_Rarely,1,Research & Development,984.0,1,2,2,1,0
+269,36,Male,Travel_Rarely,3,Research & Development,1403.0,6,3,16,0,1
+995,43,Female,Travel_Rarely,3,Research & Development,930.0,6,2,20,1,0
+201,49,Male,Non-Travel,4,Research & Development,1002.0,18,3,7,0,1
+161,27,Male,Non-Travel,3,Research & Development,691.0,9,3,6,0,1
+729,35,Female,Travel_Rarely,4,Research & Development,583.0,25,3,16,1,0
+401,56,Female,Travel_Frequently,3,Sales,906.0,6,4,36,1,0
+702,30,Male,Travel_Rarely,2,Sales,231.0,8,3,10,0,1
+1129,42,Male,Travel_Rarely,2,Research & Development,1059.0,9,2,24,0,1
+565,23,Male,Travel_Rarely,1,Research & Development,310.0,10,4,2,0,1
+1021,25,Male,Travel_Rarely,2,Sales,383.0,9,2,6,0,1
+1025,24,Female,Travel_Rarely,1,Sales,1476.0,4,3,5,1,0
+1104,29,Male,Travel_Rarely,3,Research & Development,598.0,9,4,5,0,1
+205,29,Female,Travel_Rarely,3,Sales,121.0,27,3,10,1,0
+34,24,Male,Travel_Rarely,3,Research & Development,813.0,1,3,6,0,1
+775,43,Male,Travel_Rarely,3,Sales,415.0,25,2,18,0,1
+508,35,Male,Travel_Rarely,4,Research & Development,1017.0,6,1,17,0,1
+1446,34,Female,Travel_Rarely,3,Sales,704.0,28,2,8,1,0
+1390,28,Male,Travel_Rarely,3,Research & Development,1404.0,17,2,6,0,1
+91,51,Male,Travel_Rarely,4,Sales,632.0,21,3,11,0,1
+1363,33,Male,Travel_Rarely,4,Sales,217.0,10,3,10,0,1
+897,59,Female,Travel_Rarely,3,Sales,326.0,3,2,13,1,0
+564,45,Male,Travel_Rarely,2,Sales,954.0,2,1,9,0,1
+1369,28,Female,Travel_Rarely,2,Sales,1475.0,13,3,6,1,0
+776,20,Female,Travel_Frequently,3,Sales,769.0,9,3,2,1,0
+241,32,Male,Non-Travel,4,Sales,976.0,26,3,4,0,1
+13,34,Male,Travel_Rarely,2,Research & Development,1346.0,19,3,3,0,1
+315,43,Female,Travel_Frequently,4,Research & Development,185.0,10,3,9,1,0
+600,32,Female,Travel_Rarely,3,Research & Development,859.0,4,2,14,1,0
+387,40,Female,Travel_Rarely,2,Sales,759.0,2,3,8,1,0
+1297,26,Female,Travel_Rarely,2,Human Resources,920.0,20,3,6,1,0
+166,41,Male,Travel_Rarely,3,Research & Development,465.0,14,3,13,0,1
+840,35,Male,Travel_Rarely,4,Research & Development,982.0,1,2,10,0,1
+20,24,Female,Non-Travel,2,Research & Development,673.0,11,4,5,1,0
+646,53,Male,Travel_Rarely,3,Sales,868.0,8,3,28,0,1
+1154,47,Female,Travel_Rarely,4,Human Resources,1176.0,26,3,27,1,0
+831,31,Male,Travel_Frequently,3,Research & Development,874.0,15,3,2,0,1
+1267,34,Male,Non-Travel,3,Sales,1375.0,10,3,15,0,1
+562,33,Male,Travel_Rarely,4,Research & Development,527.0,1,3,10,0,1
+1431,32,Female,Travel_Rarely,4,Sales,801.0,1,3,14,1,0
+686,41,Male,Travel_Rarely,3,Research & Development,263.0,6,3,20,0,1
+957,40,Male,Non-Travel,2,Research & Development,458.0,16,3,6,0,1
+189,51,Female,Travel_Rarely,3,Research & Development,313.0,3,3,21,1,0
+975,55,Male,Travel_Rarely,4,Sales,267.0,13,4,24,0,1
+699,52,Male,Travel_Rarely,2,Research & Development,1053.0,1,3,26,0,1
+510,54,Male,Travel_Rarely,4,Human Resources,397.0,19,3,16,0,1
+1082,23,Male,Travel_Rarely,1,Research & Development,507.0,20,3,5,0,1
+474,24,Male,Travel_Rarely,3,Research & Development,691.0,23,4,6,0,1
+856,20,Male,Travel_Rarely,3,Research & Development,805.0,3,2,2,0,1
+747,38,Male,Travel_Rarely,4,Sales,1035.0,3,3,19,0,1
+252,29,Male,Travel_Rarely,3,Research & Development,665.0,15,3,6,0,1
+21,36,Male,Travel_Rarely,4,Sales,1218.0,9,2,10,0,1
+1337,28,Female,Travel_Rarely,3,Sales,1172.0,3,3,1,1,0
+459,41,Female,Non-Travel,4,Research & Development,509.0,2,2,10,1,0
+1184,54,Female,Travel_Rarely,5,Research & Development,584.0,22,3,36,1,0
+276,35,Female,Travel_Rarely,3,Research & Development,1315.0,22,4,10,1,0
+955,55,Female,Travel_Rarely,2,Research & Development,282.0,2,1,23,1,0
+1215,35,Male,Travel_Frequently,4,Research & Development,146.0,2,2,6,0,1
+385,30,Male,Travel_Frequently,3,Research & Development,464.0,4,3,3,0,1
+805,45,Female,Non-Travel,4,Sales,1050.0,9,2,15,1,0
+1437,39,Male,Non-Travel,3,Research & Development,105.0,9,3,21,0,1
+343,29,Female,Travel_Rarely,1,Sales,144.0,10,2,7,1,0
+769,26,Female,Travel_Frequently,1,Research & Development,921.0,1,2,5,1,0
+1332,29,Male,Travel_Frequently,2,Research & Development,459.0,24,2,1,0,1
+130,43,Female,Travel_Frequently,3,Research & Development,957.0,28,4,18,1,0
+871,24,Female,Travel_Rarely,2,Research & Development,984.0,17,3,1,1,0
+1123,35,Female,Travel_Rarely,4,Research & Development,670.0,10,3,10,1,0
+1396,53,Male,Travel_Rarely,4,Sales,1168.0,24,3,15,0,1
+87,51,Male,Travel_Rarely,4,Research & Development,432.0,9,3,10,0,1
+330,43,Female,Travel_Frequently,4,Research & Development,559.0,10,2,9,1,0
+1238,23,Female,Travel_Rarely,1,Research & Development,160.0,4,3,3,1,0
+466,41,Female,Travel_Rarely,5,Sales,1276.0,2,3,22,1,0
+121,33,Male,Non-Travel,2,Sales,750.0,22,3,8,0,1
+1044,49,Male,Travel_Rarely,4,Research & Development,1495.0,5,3,20,0,1
+1095,33,Male,Travel_Rarely,4,Research & Development,589.0,28,3,15,0,1
+1130,35,Male,Travel_Rarely,3,Research & Development,750.0,28,4,10,0,1
+1294,41,Male,Travel_Rarely,3,Research & Development,447.0,5,4,11,0,1
+860,22,Male,Travel_Frequently,4,Research & Development,1256.0,3,2,1,0,1
+1459,29,Male,Travel_Rarely,2,Research & Development,1378.0,13,2,10,0,1
+1126,50,Male,Travel_Rarely,3,Sales,264.0,9,3,27,0,1
